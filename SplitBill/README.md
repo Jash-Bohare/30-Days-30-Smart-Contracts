@@ -47,5 +47,5 @@ MIT – Free to use, modify, and build upon.
 
 ## Follow the Full Series
 
-This is **Day 1** of my [30 Days, 30 Smart Contracts] challenge.  
+This is **Day 1** of my 30 Days, 30 Smart Contracts challenge.  
 Follow the repo for daily uploads of real-world smart contracts and use cases.
